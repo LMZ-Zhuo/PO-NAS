@@ -1,6 +1,8 @@
 # Per-Architecture Training-Free Metric Optimization for Neural Architecture Search (PO-NAS)
 This repository is the official implementation of [Per-Architecture Training-Free Metric Optimization for Neural Architecture Search].
 
+<img src="Figures/img.png">
+
 ## Requirements
 
 - [Pytorch v2.1.0 or later](https://pytorch.org)
