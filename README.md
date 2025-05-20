@@ -85,8 +85,8 @@ You can replace the `--arch` configure with your own architecture.
 ## Results
 We list the main results below. For more details, please refer to our paper.
 
-<img src="images/Figure2.jpg">
-<img src="images/Table2.jpg">
-<img src="images/Table3.jpg">
-<img src="images/Table4.jpg">
+<img src="Tables/Table1.png">
+<img src="Tables/Table2.png">
+<img src="Tables/Table3.png">
+<img src="Tables/Table4.png">
 
