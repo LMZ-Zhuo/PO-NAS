@@ -95,4 +95,4 @@ def build_dynamic_dataset_with_id(task, data_stats, metric_names, data_metrics, 
     }
 
     torch.save(dataset, save_path)
-    print(f"Dataset generated | Number of architectures: {len(arch_ids)} | ID: [{min(arch_ids)}, {max(arch_ids)}]")\
+    print(f"Dataset generated | Number of architectures: {len(arch_ids)} | ID: [{min(arch_ids)}, {max(arch_ids)}]")
