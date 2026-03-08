@@ -1,4 +1,5 @@
 NAS for VSR
+
 Currently, we are actively investigating Neural Architecture Search (NAS) techniques tailored for lightweight Video Super-Resolution (VSR) on mobile platforms. 
 Addressing the critical challenge of balancing real-time inference latency with high-fidelity reconstruction quality on resource-constrained devices, 
 we have developed an automated architecture search framework. This framework is designed to adaptively identify optimal lightweight network topologies without manual intervention. 
